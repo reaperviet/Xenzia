@@ -1,1 +1,5 @@
 # Xenzia
+GAME SHOULD HAVE A CURRENCY SYSTEM
+
+# How To Play
+Damn
